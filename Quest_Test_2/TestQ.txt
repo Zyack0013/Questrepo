@@ -1,0 +1,19 @@
+Problem 12: Personal Finance Tracker
+Specifications:
+Variables: Income, expenses, category, and balance.
+Static & Const: Static variable for total transactions; const for maximum categories.
+Switch Case: Menu for adding, viewing, and analyzing finances.
+Looping Statements: Loop through transactions.
+Pointers: Pointer for updating balance.
+Functions: Separate functions for each finance operation.
+Arrays: Store transaction details.
+Structures: Structure for transaction details.
+Nested Structures: Nested structures for income and expense details.
+Unions: Union for expense categories.
+Nested Unions: Nested union for subcategories.
+Output Expectations: Display financial summary and analysis.
+Menu Example:
+1. Add Transaction
+2. View Transactions
+3. Analyze Finances
+4. Exit
