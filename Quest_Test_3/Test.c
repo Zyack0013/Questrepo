@@ -26,6 +26,7 @@ int main() {
 	for(int i = 0;i >= 0;i++){
 		arr[i] = i - 5;
 	}
-	
+
+	free(arr);
 	return 0;
 }
